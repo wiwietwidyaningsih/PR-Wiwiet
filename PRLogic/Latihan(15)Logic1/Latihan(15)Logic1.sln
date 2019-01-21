@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Latihan(15)Logic1", "Latihan(15)Logic1\Latihan(15)Logic1.csproj", "{503861C7-2D47-4E99-B2CE-68ABC7D7042C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamHari02(Logic 02)", "..\..\..\Exam\ExamHari02\ExamHari02\ExamHari02(Logic 02).csproj", "{A1C97E35-5905-49E3-852C-5D0CD9CFD6E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{503861C7-2D47-4E99-B2CE-68ABC7D7042C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{503861C7-2D47-4E99-B2CE-68ABC7D7042C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{503861C7-2D47-4E99-B2CE-68ABC7D7042C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{503861C7-2D47-4E99-B2CE-68ABC7D7042C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1C97E35-5905-49E3-852C-5D0CD9CFD6E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1C97E35-5905-49E3-852C-5D0CD9CFD6E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1C97E35-5905-49E3-852C-5D0CD9CFD6E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1C97E35-5905-49E3-852C-5D0CD9CFD6E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

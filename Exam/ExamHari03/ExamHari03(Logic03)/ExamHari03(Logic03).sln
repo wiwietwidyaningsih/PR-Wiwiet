@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamLogic03", "ExamHari03(Logic03)\ExamLogic03.csproj", "{6680EC46-4151-4A9D-9E14-6A0BEDE28304}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamBase", "ExamBase\ExamBase.csproj", "{BBB71003-1D31-4A6D-859E-4F5BB1D4E173}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamLogic04", "ExamLogic04\ExamLogic04.csproj", "{B5B5FAA5-FD9E-4E94-9010-0C8588DB5DCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6680EC46-4151-4A9D-9E14-6A0BEDE28304}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6680EC46-4151-4A9D-9E14-6A0BEDE28304}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6680EC46-4151-4A9D-9E14-6A0BEDE28304}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6680EC46-4151-4A9D-9E14-6A0BEDE28304}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBB71003-1D31-4A6D-859E-4F5BB1D4E173}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBB71003-1D31-4A6D-859E-4F5BB1D4E173}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBB71003-1D31-4A6D-859E-4F5BB1D4E173}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBB71003-1D31-4A6D-859E-4F5BB1D4E173}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5B5FAA5-FD9E-4E94-9010-0C8588DB5DCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5B5FAA5-FD9E-4E94-9010-0C8588DB5DCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5B5FAA5-FD9E-4E94-9010-0C8588DB5DCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5B5FAA5-FD9E-4E94-9010-0C8588DB5DCD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
